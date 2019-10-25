@@ -1,0 +1,19 @@
+
+report:
+around 4 pages: 40% for system design, and 60% for evaluation
+
+operations:
+tar, gzip
+
+Server Crash Recovery:
+What does the server need to do to handle crashes properly?
+What are points of danger during its operation?
+what will happen if the server crashes at this point?
+Will the server recover to an acceptable state?
+Will the client get a service he expects?
+
+Measurements:
+How would you measure the performance of your system?
+What aspects of the system should you measure?
+Can you showcase its performance during normal operation, during server failure, the benefit of COMMITs, etc.?
+
