@@ -1,5 +1,10 @@
 # NFS-CS754
-This project is a basic implementation of NFS-like file system that supports Linux file system operations. We have tried to stick to NFS-3.0 semantics.
+This project is a basic implementation of NFS-like file system that supports Linux file system operations. We have tried to stick to NFS-3.0 semantics. 
+
+## Report
+
+https://github.com/faushine/NFS-CS754/blob/master/CS754-Report.pdf
+
 
 ## Usage
 
